@@ -7,14 +7,15 @@
     "build": "next build",
     "start": "next start"
   },
-"dependencies": {
-  "@supabase/supabase-js": "^2.39.5",
-  "next": "14.1.4",
-  "react": "18.2.0",
-  "react-dom": "18.2.0"
-},
-"devDependencies": {
-  "typescript": "^5.3.3",
-  "@types/react": "^18.2.45",
-  "@types/node": "^20.11.30"
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.5",
+    "next": "14.1.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.45",
+    "@types/node": "^20.11.30"
+  }
 }
